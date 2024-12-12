@@ -1,0 +1,32 @@
+#EXTINF:-1 group-title="j"tvg-logo="https://i.postimg.cc/Gtvqqh3F/IMG-20241212-212849-225.jpg",https://t.me/SmartFlix_Tv
+https://neeplay.com/delta/discovery/api/Discovery_Bangla.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/vccxxOt.png",TLC HD
+https://neeplay.com/delta/discovery/api/TLC.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/wJHjFj6.png",Discovery HD Tamil
+https://neeplay.com/delta/discovery/api/Discovery_Tamil.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/wJHjFj6.png",Discovery HD Hindi
+https://neeplay.com/delta/discovery/api/Discovery_Hindi.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/37lrOuT.jpg",Discovery Kids Hindi
+https://neeplay.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/9Kqq4Yb.png",Discovery Science Hindi
+https://neeplay.com/delta/discovery/api/Discovery_Science_Hindi.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/tWu1cHd.png",Investigation Discovery Hindi
+https://neeplay.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/wv3P6KO.png",Animal Planet HD Hindi
+https://neeplay.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/kZbathj.png",DMAX
+https://neeplay.com/delta/discovery/api/DMAX.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/YAYjYCw.png",TRVL Channel
+https://neeplay.com/delta/discovery/api/TRVL_Channel.m3u8
+
+#EXTINF:-1 group-title="j"tvg-logo="https://i.imgur.com/Y0kWuZt.png",Discovery Turbo
+https://neeplay.com/delta/discovery/api/Discovery_Turbo.m3u8
