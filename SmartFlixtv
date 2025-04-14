@@ -22,3 +22,20 @@ https://cdn.hoichoi24.com/LIVE/video.m3u8
 http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8
 #EXTINF:-1 group-title="PSL Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10", Live 2
 https://news.bajimath.com/Candy_Live/vstream.m3u8?id=2d4852b1a355&e=.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Deen Tv Uk
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Mercy
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Huda Tv
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",ekushey Tv
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgtSPd1tDEKCWFzOkkavM2zjEgJttKsu0J4y_DBzfa1fYvYPTFyWilmwS&s=10", Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
