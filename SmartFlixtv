@@ -181,3 +181,34 @@ http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
 http://filex.tv:8080/live/Home329/Sohailhome/451415.m3u8
 
 
+
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",Discovery 
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",Animal 
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/186960
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",History 18 Hd
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400375294
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",Sony BBC
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/36338
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",STAR Movie
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187267
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",STAR Movie Selected
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/387767
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",MN Movie
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/187151
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",Movie Now
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/376271
+
+#EXTINF:-1 group-title="English Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnc9PnAL7JrLq3YVOe52VFPcIwcFzj_pozhMw3V-3K330hhLtdR_ViMe3b&s=10",Al Jazeera
+http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400375124
+
+
+
