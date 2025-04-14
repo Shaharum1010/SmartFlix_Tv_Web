@@ -17,3 +17,8 @@ http://103.121.48.61:8080/live/202504014/hh2025bdlive/521338.m3u8
 
 #EXTINF:-1 group-title="IPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",T Sports
 https://cdn.hoichoi24.com/LIVE/video.m3u8
+
+#EXTINF:-1 group-title="PSL Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10", Live 1
+http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8
+#EXTINF:-1 group-title="PSL Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10", Live 2
+https://news.bajimath.com/Candy_Live/vstream.m3u8?id=2d4852b1a355&e=.m3u8
