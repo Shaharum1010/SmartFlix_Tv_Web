@@ -10,7 +10,7 @@ https://t.me/SmartFlix_Tv
 https://live.aoneroom.com/moviebox/wefeed05.m3u8?auth_key=1744615696-0-0-e15b10662e3a00ed562396542d1c89ef
 
 #EXTINF:-1 group-title="IPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",Star sports 1
-http://filex.tv:8080/live/Home329/Sohailhome/52094.m3u8
+https://tv.bdixtv24.co/sports/m3u8.php/star1in.m3u8
 
 #EXTINF:-1 group-title="IPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",Sky Cricket
 http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
