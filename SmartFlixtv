@@ -100,25 +100,34 @@ http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKxbvuEznCIlAzysBCs5yWlIRlpWJnVvXDw&s",NTV
-http://103.121.48.61:8080/live/202504014/hh2025bdlive/83778.m3u8
+http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2VLtMQLskHxld3vR2iEWhYGwjaBOZ1bzGng&s",Sun Bangla
-http://103.121.48.61:8080/live/202504014/hh2025bdlive/83774.m3u8
+http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/400159619.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrq8WGnJYw7a-0-cVbKSkuw2EKp-IVLAsKA&s",Zee Bangla Cinema
-http://103.121.48.61:8080/live/202504014/hh2025bdlive/83768.m3u8
+http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/187352.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8XRvHUnFzbHOMr0rSeLNxBHIIqUFmrljp7w&s",ATN Bangla
-http://103.121.48.61:8080/live/202504014/hh2025bdlive/83782.m3u8
+http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/186993.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkvU5eOBb2sAWJjyDCYi0flJPbIUzPg_C9A&s",Discovery Bangla
-http://103.121.48.61:8080/live/202504014/hh2025bdlive/83845.m3u8
+http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/400159895.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw83qYsPRHRKgP2lVOpjsRyaZotVeNaFRPEw&s",Channel I
-http://103.121.48.61:8080/live/202504014/hh2025bdlive/83784.m3u8
+http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQombheJmsbgpAeNj3Y90xU4weCuGlvA0sidg&s",Jalsha Movie 
+http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/400159618.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPlsWILCLMDthC8145bIQI6yO_JTEkASP4g&s",R Tv
+http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPlsWILCLMDthC8145bIQI6yO_JTEkASP4g&s",Channel 9
+http://103.163.247.39:80/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 
 
 
