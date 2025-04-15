@@ -25,7 +25,7 @@ https://news.bajimath.com/Candy_Live/vstream.m3u8?id=2d4852b1a355&e=.m3u8
 
 
 #EXTINF:-1 group-title="Football Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvNRVLo_jNl3vEEvIAnp3mSCILTPTEpi8A&s",Live 1
-http://bktv.xyz:8080/07030/WerWcMP939/2035
+http://103.121.48.61:8080/live/202504014/hh2025bdlive/100517.m3u8
 
 #EXTINF:-1 group-title="Football Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvNRVLo_jNl3vEEvIAnp3mSCILTPTEpi8A&s",Live 2
 http://103.121.48.61:8080/live/202504014/hh2025bdlive/129296.m3u8
@@ -34,7 +34,7 @@ http://103.121.48.61:8080/live/202504014/hh2025bdlive/129296.m3u8
 http://103.121.48.61:8080/live/202504014/hh2025bdlive/1165.m3u8
 
 #EXTINF:-1 group-title="Football Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvNRVLo_jNl3vEEvIAnp3mSCILTPTEpi8A&s",Live 4
-http://103.121.48.61:8080/live/202504014/hh2025bdlive/21356.m3u8
+http://103.121.48.61:8080/live/202504014/hh2025bdlive/21355.m3u8
 
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Deen Tv Uk
