@@ -159,19 +159,32 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master_480.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/g002B7kq/01ef9db86b56a85ed9474bac2af17b55-1.png",Cartoon Network
-https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/15371.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo
-http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/400159481.m3u8
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFbfeuxYETgwAJX9KZk318xmYw07A1JehI0YKK0cWZbt-BGZgYy66E6E&s=10",jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159483
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159717.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic 
-http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400159897
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400490424.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&s",Sony YnY
+http://cool365.xyz:900/live/4160189881/DB4ACD54/36337.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s",Dunronto
+http://kst.moonplex.net:8080/CH12/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRxjam2AlvRGQpE-G3Ay2WztVtw5c6BCZ-Q&s",Discovery Kids
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187049.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRxjam2AlvRGQpE-G3Ay2WztVtw5c6BCZ-Q&s",Disny
+http://cool365.xyz:900/live/4160189881/DB4ACD54/110610.m3u8
+
 
 
 
