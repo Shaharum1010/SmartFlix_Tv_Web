@@ -21,7 +21,7 @@ https://cdn.hoichoi24.com/LIVE/video.m3u8
 #EXTINF:-1 group-title="PSL Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10", Live 1
 http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8
 #EXTINF:-1 group-title="PSL Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10", Live 2
-http://filex.tv:8080/live/Home329/Sohailhome/52106.m3u8
+https://tvs2.aynaott.com/PtvSports/index.m3u8?token=f5e3a5f153c01b2d8f919393b6a9a3e39bd5494b-4ee4de52f3dde3dbd71542e88a623936-1744819542-1744818642&remote=no_check_ip
 
 
 
@@ -29,7 +29,7 @@ http://filex.tv:8080/live/Home329/Sohailhome/52106.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/267300.m3u8
 
 #EXTINF:-1 group-title="Football Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvNRVLo_jNl3vEEvIAnp3mSCILTPTEpi8A&s",Live 2
-http://cool365.xyz:900/live/4160189881/DB4ACD54/191686.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/267299.m3u8
 
 #EXTINF:-1 group-title="Football Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvNRVLo_jNl3vEEvIAnp3mSCILTPTEpi8A&s",Live 3
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401338282.m3u8
