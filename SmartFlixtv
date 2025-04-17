@@ -256,7 +256,7 @@ http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8
 http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Super Cricket 
-http://trollott.com:8080/live/202504014/hh2025bdlive/75311.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400201963.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Star Sports 1
 http://filex.tv:8080/live/Home329/Sohailhome/52094.m3u8
@@ -283,13 +283,42 @@ http://filex.tv:8080/live/Home329/Sohailhome/52086.m3u8
 http://trollott.com:8080/live/202504014/hh2025bdlive/1159.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",TNT Sports 2
-http://trollott.com:8080/live/202504014/hh2025bdlive/1161.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400201963.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Willow Cricket 
 http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Asto Cricket
 http://filex.tv:8080/live/Home329/Sohailhome/451415.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/55.png",willow cricket extra
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401242182.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph&s=10", Sky Nz 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401242196.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/12.gif",TNT Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338313.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Premium 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338317.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Premium 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338316.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Dazan 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Dazan 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338284.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/112551.m3u8
+
+
 
 
 
