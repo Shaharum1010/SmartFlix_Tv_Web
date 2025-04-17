@@ -152,6 +152,38 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://i.imgur.com/ADXlju2.png",Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s",Zing
+http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/1347.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png",Hum Masala
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400158033.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",Hum Sitarey
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400158034.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Indian_Idol.png",Geo pk
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400158027.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIJCldn0ZtTohzsgelJjillt8W_lgXAJxB79x5UAYTeGqauP41c9spoku&s=10",& tv HD
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378736.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Zee_TV_HD_Logo_2014.png",Zee Tv
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187372.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7B428fi3UDm_8iCFlrkEyxbzXnTceD9cagrttlvTg4A&s",Zee Cinema Hd
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400280894.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
