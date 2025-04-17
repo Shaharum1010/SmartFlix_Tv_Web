@@ -173,6 +173,27 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/187372.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7B428fi3UDm_8iCFlrkEyxbzXnTceD9cagrttlvTg4A&s",Zee Cinema Hd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400280894.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXm9tC5csIakH2bXVL6Mc26AxKWlIVw1lY2Aof5UJwSa1QI0xgrtTuVpQ&s=10",Zee Bollywood
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378730.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187024.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTv Hd
+http://cool365.xyz:900/live/4160189881/DB4ACD54/36329.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4u Movie
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400281171.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD HD
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187265.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/376261.m3u8
+
+#EXTINF:-1 group-title="j" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",Star Plush
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378741.m3u8
+
 
 
 
