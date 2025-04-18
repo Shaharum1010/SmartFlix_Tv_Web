@@ -18,6 +18,11 @@ http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
 #EXTINF:-1 group-title="IPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",T Sports
 https://cdn.hoichoi24.com/LIVE/video.m3u8
 
+#EXTINF:-1 group-title="IPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",Star sports 1 Hindi
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159571.m3u8
+
+
+
 #EXTINF:-1 group-title="PSL Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10", Live 1
 http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8
 #EXTINF:-1 group-title="PSL Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10", Live 2
@@ -36,6 +41,8 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401338282.m3u8
 
 #EXTINF:-1 group-title="Football Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvNRVLo_jNl3vEEvIAnp3mSCILTPTEpi8A&s",Live 4
 http://cool365.xyz:900/live/4160189881/DB4ACD54/159894.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10",Deen Tv Uk
@@ -249,8 +256,8 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/110610.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",T Sports 
 http://kst.moonplex.net:8080/CH2/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Ary Sports
-http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGdZYL2h/2Q.jpg",A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sky Cricket
 http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
@@ -258,14 +265,23 @@ http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Super Cricket 
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400201963.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Star Sports 1
-http://filex.tv:8080/live/Home329/Sohailhome/52094.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Star Sports 2
-http://filex.tv:8080/live/Home329/Sohailhome/52096.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star Sports 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatPYsiXBRFw&s",Star Sports Hindi
-http://trollott.com:8080/live/202504014/hh2025bdlive/75296.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/htVCr69X/images-1719001317102.jpg",Star Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports Hindi
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159571.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",PTV Sports
 http://filex.tv:8080/live/Home329/Sohailhome/250211.m3u8
