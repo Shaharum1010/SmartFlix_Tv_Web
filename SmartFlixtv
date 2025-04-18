@@ -66,7 +66,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1ZaklDWQCsqSCkzEvLNG46S89Cd90Y5TIQ&s",Jamuna News
-https://aynaxpranto.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
+http://kst.moonplex.net:8080/CH5/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmUTztkK-J3GLXCrWRImctg2-k8kJfqaM7w&s",Star Jalsha
 http://kst.moonplex.net:8080/CH3/index.m3u8
@@ -84,7 +84,7 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png",Deepto
-http://kst.moonplex.net:8080/CH5/index.m3u8
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117075.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -120,7 +120,7 @@ http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/187352.m3u8
 http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/186993.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkvU5eOBb2sAWJjyDCYi0flJPbIUzPg_C9A&s",Discovery Bangla
-http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/400159895.m3u8
+http://kst.moonplex.net:8080/CH9/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -136,6 +136,25 @@ http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPlsWILCLMDthC8145bIQI6yO_JTEkASP4g&s",Channel 9
 http://103.163.247.39:80/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV 
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/116997.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdLnmf3JedM45hntPe5aexywmQbnQ7dTW6Q&s",Sangeet Bangla 
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117053.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",Mohona Tv
+http://opplex.tv:8080/live/323232/323232/245920.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",Boishakhi Tv
+http://opplex.tv:8080/live/323232/323232/245957.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUB57N6ID9SbAQY3vpdCpL2CXbAj_R7dV45A&s",Channel 24
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400248323.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/1200px-Logo_of_My_TV_%28Bangladesh%29.svg.png",My Tv
+http://opplex.tv:8080/live/323232/323232/245964.m3u8
+
 
 
 
