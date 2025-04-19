@@ -93,22 +93,22 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYy8hoZ-rpRqcx9V58nT4mi6rfUViz8NvEcZ2hTQebakrxkOxmrdD0e_3&s=10",Somoy TV
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARwXaFQu4NDSM1jSFs8YgwFDepm87_urL6JEa4QQB9eDcDfRx8nxPoOTa&s=10",Ananda TV
- http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
+ https://aynaxpranto.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3x_kktWSQTjJYNiXGktuypxX7W9Q-XX4eQ&s",Bijoy TV
-http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXfPy5z0FIrpIZI659glZ-vBywP1j6ej-Ng&s",Independent TV
-http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoeA4yY6WZJweFvOj9B3vFOXdi7vZf4TmFyA&s",Bangla TV
-http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKxbvuEznCIlAzysBCs5yWlIRlpWJnVvXDw&s",NTV
-http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2VLtMQLskHxld3vR2iEWhYGwjaBOZ1bzGng&s",Sun Bangla
 http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/400159619.m3u8
@@ -126,16 +126,16 @@ http://kst.moonplex.net:8080/CH9/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw83qYsPRHRKgP2lVOpjsRyaZotVeNaFRPEw&s",Channel I
-http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+https://tvs2.aynaott.com/channeli/index.m3u8?token=4dfe1703d51186afe861f4377cb49188961650f4-05de0e4bdef9dd91f21d43f7382d366b-1745074506-1745073606&remote=no_check_ip
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQombheJmsbgpAeNj3Y90xU4weCuGlvA0sidg&s",Jalsha Movie 
 http://nevjfhb.mtop5.xyz:80/live/2249871453/1991220000/400159618.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPlsWILCLMDthC8145bIQI6yO_JTEkASP4g&s",R Tv
-http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPlsWILCLMDthC8145bIQI6yO_JTEkASP4g&s",Channel 9
-http://103.163.247.39:80/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
+https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV 
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/116997.m3u8
@@ -144,17 +144,28 @@ http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/116997.m3u8
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117053.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",Mohona Tv
-http://opplex.tv:8080/live/323232/323232/245920.m3u8
+https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",Boishakhi Tv
-http://opplex.tv:8080/live/323232/323232/245957.m3u8
+https://aynaxpranto.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUB57N6ID9SbAQY3vpdCpL2CXbAj_R7dV45A&s",Channel 24
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400248323.m3u8
+https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/1200px-Logo_of_My_TV_%28Bangladesh%29.svg.png",My Tv
-http://opplex.tv:8080/live/323232/323232/245964.m3u8
+https://aynaxpranto.vercel.app/api/stream/c0480a4a-f066-4a20-9f7d-73bbd852260f.m3u8
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlONl21nkrYm8ShUYMiN_rrMJaJh8gV1-k2_S_HYSfaeHpshK8RFlENDU&s=10", News 24
+https://aynaxpranto.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus Tv
+https://tvs1.aynaott.com/nexustv/index.m3u8?token=3f78c20688719d241b67ab78c956944fb516f929-c98a80dd7d96b90242e8c670406c73d9-1745074888-1745073988&remote=no_check_ip
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshBHuxHD0B7oV_RFOAcAVuJ6YPAeE8nxGzA&s",Sa Tv
+https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshBHuxHD0B7oV_RFOAcAVuJ6YPAeE8nxGzA&s",Global Tv
+https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
 
 
 
