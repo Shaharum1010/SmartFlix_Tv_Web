@@ -260,7 +260,7 @@ https://epiconvh.akamaized.net/live/gubbare/master_480.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/15371.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+http://starshare.org:8080/live/Nabeel123/Nabeel321/1918.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFbfeuxYETgwAJX9KZk318xmYw07A1JehI0YKK0cWZbt-BGZgYy66E6E&s=10",jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -283,11 +283,11 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/187049.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRxjam2AlvRGQpE-G3Ay2WztVtw5c6BCZ-Q&s",Disny
 http://cool365.xyz:900/live/4160189881/DB4ACD54/110610.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick bd ip
-http://opplex.tv:8080/live/323232/323232/150482.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Hindi 
+http://starshare.org:8080/live/Nabeel123/Nabeel321/205.ts
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic bd ip
-http://opplex.tv:8080/live/323232/323232/34011.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic 2
+http://starshare.org:8080/live/Nabeel123/Nabeel321/207.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRxjam2AlvRGQpE-G3Ay2WztVtw5c6BCZ-Q&s",Disny bd ip
 http://opplex.tv:8080/live/323232/323232/167551.m3u8
