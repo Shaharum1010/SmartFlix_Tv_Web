@@ -106,7 +106,7 @@ https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m
 https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXfPy5z0FIrpIZI659glZ-vBywP1j6ej-Ng&s",Independent TV
-https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
+http://starshare.org:8080/live/Nabeel123/Nabeel321/423.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoeA4yY6WZJweFvOj9B3vFOXdi7vZf4TmFyA&s",Bangla TV
 https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
