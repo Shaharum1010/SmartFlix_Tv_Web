@@ -429,5 +429,12 @@ http://starshare.org:8080/live/Nabeel123/Nabeel321/98872.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7fMteoHeED8D9QsKUptf-NnWuC1HO3gi6A&s",Animal 
 http://cool365.xyz:900/live/4160189881/DB4ACD54/186960.ts
 
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROT1ZpY9BYOmF0-POJPbpTOumHaG3nOHy22g&s",Sony bbc
+http://cool365.xyz:900/live/4160189881/DB4ACD54/36338.m3u8
 
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROT1ZpY9BYOmF0-POJPbpTOumHaG3nOHy22g&s",History 18 
+http://starshare.org:8080/live/Nabeel123/Nabeel321/5252.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt57oT9aoLgZMRFbNnOglFW18DqU7mr-RTR-S2cvAr88_n4-pZtHiuKQIx&s=10", Discovery Science 
+http://cool365.xyz:900/live/4160189881/DB4ACD54/186965.m3u8
 
