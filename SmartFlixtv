@@ -7,13 +7,13 @@
 https://t.Hatim_808
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 1
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+http://filex.me:8080/live/444476/444476/509503.ts
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://postimg.cc/bGtqwYn1", Live 2
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 group-title="Live Event" tvg-log="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 2
+http://filex.me:8080/live/444476/444476/52109.m3u
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://postimg.cc/bGtqwYn1", Live Football
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 3
+http://filex.me:8080/live/444476/444476/301958.m3u8
 
 
 
