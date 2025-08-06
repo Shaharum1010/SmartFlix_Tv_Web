@@ -272,10 +272,10 @@ http://starshare.org:8080/live/Nabeel123/Nabeel321/207.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",T Sports 
-http://kst.moonplex.net:8080/CH2/index.m3u8
+http://filex.me:8080/live/444476/444476/111409.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGdZYL2h/2Q.jpg",A Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+http://filex.me:8080/live/444476/444476/190767.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo//encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sky Cricket
 http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
@@ -302,7 +302,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159571.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",PTV Sports
-http://filex.tv:8080/live/Home329/Sohailhome/250211.m3u8
+http://filex.me:8080/live/444476/444476/453434.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 1
 http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
@@ -332,7 +332,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401242182.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401242196.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Super
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+http://filex.me:8080/live/444476/444476/52080.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/12.gif",TNT Sports 3
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401338313.m3u8
