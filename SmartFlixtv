@@ -172,6 +172,10 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony PAL
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+
 https://i.imgur.com/ADXlju2.png",Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
@@ -254,7 +258,7 @@ http://mini.allinonereborn.site/jiotv-ww/app/ts_live_1341.m3u8
 http://mini.allinonereborn.site/jiotv-ww/app/ts_live_1345.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&s",Sony YnY
-http://watchindia.net:8880/live/54355/61270/2104.m3u8
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master_1300.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s",Dunronto
 http://kst.moonplex.net:8080/CH12/index.m3u8
