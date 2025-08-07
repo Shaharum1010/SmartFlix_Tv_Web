@@ -400,8 +400,8 @@ http://watchindia.net:8880/live/54355/61270/2058.m3u8
 
 
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzwzDXCZwlRY36-gtGasdQWUiuN5Vhuwpvg&s",national geographic
-http://watchindia.net:8880/live/54355/61270/2036.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzwzDXCZwlRY36-gtGasdQWUiuN5Vhuwpvg&s",national geographic auto
+http://starshare.fun:80/live/DD/DD123/9394.ts
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt57oT9aoLgZMRFbNnOglFW18DqU7mr-RTR-S2cvAr88_n4-pZtHiuKQIx&s=10", Discovery Bangla 
 http://watchindia.net:8880/live/54355/61270/2124.m3u8
