@@ -4,7 +4,7 @@
 @Pokemon_bot1
 
 #EXTINF:-1 tvg-id="" group-title="Mr Island" tvg-logo="https://i.postimg.cc/cHbJvhtS/IMG-20240926-111255-193.jpg" ,Mr island 
-https://t.Hatim_808
+https://Pokemon_bot1
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 1
 http://filex.me:8080/live/444476/444476/509503.ts
@@ -48,7 +48,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjUgODoxOTo1NiBBTSZoYXNoX3ZhbHVlPUlHZ1hvYUwyNUc4M3pQU3NpWVBXZ1E9PSZ2YWxpZG1pbnV0ZXM9NDA=|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmUTztkK-J3GLXCrWRImctg2-k8kJfqaM7w&s",Star Jalsha
-http://watchindia.net:8880/live/54355/61270/2281.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOLYkWb7BHI1wolt4nqLPPyzOJ7KG-S77-VA&s",Zee Bangla Hd
 http://watchindia.net:8880/live/54355/61270/2283.m3u8
@@ -176,11 +176,14 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
-https://i.imgur.com/ADXlju2.png",Sony WAH
+#EXTINF:-1 group-title="Hindi" tvg-logo="://i.imgur.com/ADXlju2.png",Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s",Zing
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/1347.m3u8
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Zee_TV_HD_Logo_2014.png",Zee Cinema 2
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png",Hum Masala
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400158033.m3u8
