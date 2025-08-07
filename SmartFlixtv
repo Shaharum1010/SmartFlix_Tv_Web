@@ -176,7 +176,7 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="://i.imgur.com/ADXlju2.png",Sony WAH
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo6IrtNoQvKMvS3x5WzS9B30fAXqld_R3jhmzv8ZkOQ&s",Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s",Zing
@@ -276,7 +276,7 @@ http://mini.allinonereborn.site/jiotv-ww/app/ts_live_2774.m3u8
 http://watchindia.net:8880/live/54355/61270/2059.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic 2
-http://starshare.org:8080/live/Nabeel123/Nabeel321/207.m3u8
+http://watchindia.net:8880/live/54355/61270/2631.ts
 
 
 
@@ -295,7 +295,7 @@ http://filex.me:8080/live/444476/444476/190767.ts
 http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Super Cricket 
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400201963.m3u8
+http://watchindia.net:8880/live/54355/61270/2421.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
