@@ -260,8 +260,8 @@ http://mini.allinonereborn.site/jiotv-ww/app/ts_live_1341.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Bangla 
 http://mini.allinonereborn.site/jiotv-ww/app/ts_live_1345.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&s",Sony YnY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master_1300.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&s",Sony YnY Bangla 
+http://app.hughag.store/api/b45f637d05/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s",Dunronto
 http://kst.moonplex.net:8080/CH12/index.m3u8
@@ -270,7 +270,7 @@ http://kst.moonplex.net:8080/CH12/index.m3u8
 http://mini.allinonereborn.site/jiotv-ww/app/ts_live_816.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRxjam2AlvRGQpE-G3Ay2WztVtw5c6BCZ-Q&s",Disny
-http://mini.allinonereborn.site/jiotv-ww/app/ts_live_2774.m3u8
+https://stream.himelop-pro.top/vm/disneyop.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Hindi 
 http://watchindia.net:8880/live/54355/61270/2059.m3u8
