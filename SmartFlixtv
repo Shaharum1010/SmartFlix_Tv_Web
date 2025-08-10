@@ -9,11 +9,11 @@ https://Pokemon_bot1
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 1
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-log="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 2
-http://filex.me:8080/live/444476/444476/52109.m3u
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/159892.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://i.postimg.cc/jjW2gRws/IMG-20250512-093451-383.jpg", Live 3
-http://filex.me:8080/live/444476/444476/301958.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/117927.ts
 
 
 
@@ -298,8 +298,13 @@ https://tiger-hub.vercel.app/24%C3%977_Tom&Jerry/tracks-v1a1/mono.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWWE 
+https://tiger-hub.vercel.app/WWE/Netflix/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",T Sports 
-http://filex.me:8080/live/444476/444476/111409.m3u8
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGdZYL2h/2Q.jpg",A Sports
 http://filex.me:8080/live/444476/444476/190767.ts
@@ -331,17 +336,23 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400159571.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",PTV Sports
 http://filex.me:8080/live/444476/444476/453434.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 1
-http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNC9BzhgvSukppxdIORzqo7OP5ro94nOLcDg&s",Sony Ten 1
+http://app.hughag.store/api/762cf859a8/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 2
-http://filex.tv:8080/live/Home329/Sohailhome/52085.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNC9BzhgvSukppxdIORzqo7OP5ro94nOLcDg&s",Sony Ten 2
+http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 3
-http://filex.tv:8080/live/Home329/Sohailhome/52086.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNC9BzhgvSukppxdIORzqo7OP5ro94nOLcDg&s",Sony Ten 3
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten Sports 1
-http://trollott.com:8080/live/202504014/hh2025bdlive/1159.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNC9BzhgvSukppxdIORzqo7OP5ro94nOLcDg&s",Sony Ten 4
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNC9BzhgvSukppxdIORzqo7OP5ro94nOLcDg&s",Sony Ten 5
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNC9BzhgvSukppxdIORzqo7OP5ro94nOLcDg&s",Sony Ten Cricket
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",TNT Sports 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400201963.m3u8
@@ -379,7 +390,17 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401338284.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/112551.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEHF_UcJ0llt9378L4-LBOuM_iw_ahl_cSg&s",RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_kGRK6DfblP98pdRAIzhSYgxmBEKsw-Jgg&s",Dubai Sports 1
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_kGRK6DfblP98pdRAIzhSYgxmBEKsw-Jgg&s",Dubai Sports 2
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_kGRK6DfblP98pdRAIzhSYgxmBEKsw-Jgg&s",Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 
 
