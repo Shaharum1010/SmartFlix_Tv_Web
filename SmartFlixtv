@@ -266,17 +266,17 @@ http://mini.allinonereborn.site/jiotv-ww/app/ts_live_1341.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Bangla 
 http://mini.allinonereborn.site/jiotv-ww/app/ts_live_1345.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE8CZD8VNd9SU81UrtDUz6Pa6aoJAc-MI3A&s",Sony YnY Bangla 
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiORz7AoXPCMJP3zR5Hez7tk2JTKW6yrVQoHReCwXsBL9m4mWoFlih8qA&s=10",Sony YnY Bangla 
 http://app.hughag.store/api/b45f637d05/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s",Dunronto
 https://tvsen6.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRxjam2AlvRGQpE-G3Ay2WztVtw5c6BCZ-Q&s",Discovery Kids
-http://mini.allinonereborn.site/jiotv-ww/app/ts_live_816.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187049.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRxjam2AlvRGQpE-G3Ay2WztVtw5c6BCZ-Q&s",Disny
-http://app.hughag.store/api/b45f637d05/playlist.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187052.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Hindi 
 http://watchindia.net:8880/live/54355/61270/2059.m3u8
@@ -295,6 +295,12 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUn-UsRYI68JNEh5089rgXzipZEzpn19n2wg&s",Tom Jerry
 https://tiger-hub.vercel.app/24%C3%977_Tom&Jerry/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRAL9-DFGqACI0r3bRYmWdqAfHI1Z3TbBn9w&s",Hungama Tv
+http://starshare.fun:80/live/dinkum12/dinkum12/18456.ts
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokAwcMuJWJ6LlQ3JSAR3OGhmfKTJC2oEXVw&s",Bantul the gert
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
 
 
 
@@ -358,7 +364,7 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 http://starshare.fun:80/live/dinkum12/dinkum12/186627.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Willow Cricket 
-http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
+http://starshare.fun:80/live/dinkum12/dinkum12/23943.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Asto Cricket
 http://filex.tv:8080/live/Home329/Sohailhome/451415.m3u8
