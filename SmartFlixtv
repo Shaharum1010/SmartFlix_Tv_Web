@@ -213,8 +213,8 @@ https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonog
 #EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTv Hd
 https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/live.php?id=248&format=.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s",Zing
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s",Zee Action 
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/1020193.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Zee_TV_HD_Logo_2014.png",Zee Cinema 2
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8
