@@ -198,6 +198,21 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo6IrtNoQvKMvS3x5WzS9B30fAXqld_R3jhmzv8ZkOQ&s",Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Colors
+https://playyonogames.in/live.php?id=144&format=.m3u8|Referer=https://playyonogames.in/live.php?id=144&format=.m3u8|key=Shaharum
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Rishtey
+https://playyonogames.in/live.php?id=279&format=.m3u8|Referer=https://playyonogames.in/live.php?id=279&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_hd
+https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1477&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_Bollywood
+https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1763&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTv Hd
+https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/live.php?id=248&format=.m3u8
+
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s",Zing
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8
 
@@ -224,12 +239,6 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400280894.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXm9tC5csIakH2bXVL6Mc26AxKWlIVw1lY2Aof5UJwSa1QI0xgrtTuVpQ&s=10",Zee Bollywood
 http://cool365.xyz:900/live/4160189881/DB4ACD54/378730.m3u8
-
-#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://cool365.xyz:900/live/4160189881/DB4ACD54/187024.m3u8
-
-#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTv Hd
-http://cool365.xyz:900/live/4160189881/DB4ACD54/36329.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4u Movie
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400281171.m3u8
