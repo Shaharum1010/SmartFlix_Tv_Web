@@ -62,6 +62,9 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmUTztkK-J3GLXCrWRImctg2-k8kJfqaM7w&s",Star Jalsha 
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmUTztkK-J3GLXCrWRImctg2-k8kJfqaM7w&s",Star jalsha sarvar2
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/76204.ts
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOLYkWb7BHI1wolt4nqLPPyzOJ7KG-S77-VA&s",Zee Bangla Hd
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159620.m3u8
 
@@ -216,17 +219,17 @@ https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonoga
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcpNmDFi78ufxaR3SWta4aqLjlFItHfEECA&s",Zee Action 
 http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/1020193.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Zee_TV_HD_Logo_2014.png",Zee Cinema 2
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Zee_TV_HD_Logo_2014.png",Zee Cinema 
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72136.ts
 
-#EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png",Hum Masala
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400158033.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31bt0zM8GtIatjtiD0uBszlkLp-Vw6EYg2Q&s",Zee Animol
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72245.ts
 
-#EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",Hum Sitarey
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400158034.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31bt0zM8GtIatjtiD0uBszlkLp-Vw6EYg2Q&s",Zing
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72137.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Indian_Idol.png",Geo pk
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400158027.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31bt0zM8GtIatjtiD0uBszlkLp-Vw6EYg2Q&s",Zee Anmol Cinema
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72246.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIJCldn0ZtTohzsgelJjillt8W_lgXAJxB79x5UAYTeGqauP41c9spoku&s=10",& tv HD
 http://cool365.xyz:900/live/4160189881/DB4ACD54/378736.m3u8
@@ -234,8 +237,8 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/378736.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Zee_TV_HD_Logo_2014.png",Zee Tv
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187372.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7B428fi3UDm_8iCFlrkEyxbzXnTceD9cagrttlvTg4A&s",Zee Cinema Hd
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400280894.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7B428fi3UDm_8iCFlrkEyxbzXnTceD9cagrttlvTg4A&s",Zoom
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72160.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXm9tC5csIakH2bXVL6Mc26AxKWlIVw1lY2Aof5UJwSa1QI0xgrtTuVpQ&s=10",Zee Bollywood
 http://cool365.xyz:900/live/4160189881/DB4ACD54/378730.m3u8
@@ -244,13 +247,19 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/378730.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400281171.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD HD
-http://cool365.xyz:900/live/4160189881/DB4ACD54/187265.m3u8
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72141.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376261.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",Star Plush
 http://cool365.xyz:900/live/4160189881/DB4ACD54/378741.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/u6xCqD3.jpg",9x Jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
