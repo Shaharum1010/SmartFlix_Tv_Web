@@ -177,6 +177,14 @@ https://tvsen6.aynaott.com/gtvhdforgame/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEFbkB0YEYFXNtG0y7m9-vB7fNMp7fzZWFw&s",HUM TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://en.wikipedia.org/wiki/Geo_News",Geo Pk
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/63227.ts
+
+#EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",Hum Sitary
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/63157.ts
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv
@@ -269,9 +277,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRZWvdBoOSzHBNDEu5TLWRBjLafe8COh2VdK275v0VA&s",The Movie Club
 http://212.102.34.8:9080/Pitaara/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.imgur.com/u6xCqD3.jpg",9x Jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
@@ -416,7 +421,7 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 http://starshare.fun:80/live/dinkum12/dinkum12/186627.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Willow Cricket 
-http://starshare.fun:80/live/dinkum12/dinkum12/23943.ts
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/1090644.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Asto Cricket
 http://filex.tv:8080/live/Home329/Sohailhome/451415.m3u8
@@ -494,7 +499,7 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzwzDXCZwlRY36-gtGasdQWUiuN5Vhuwpvg&s",national geographic Bangla 
-http://starshare.fun:80/live/dinkum12/dinkum12/9394.ts
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72220.ts
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzwzDXCZwlRY36-gtGasdQWUiuN5Vhuwpvg&s",nat geo Wild 
 http://cool365.xyz:900/live/4160189881/DB4ACD54/165985.m3u8
@@ -516,4 +521,7 @@ http://app.hughag.store/api/8ea645b228/playlist.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt57oT9aoLgZMRFbNnOglFW18DqU7mr-RTR-S2cvAr88_n4-pZtHiuKQIx&s=10", Discovery Science 
 http://app.hughag.store/api/7077164c21/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",History 18
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72200.ts
 
