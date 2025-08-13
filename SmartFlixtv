@@ -252,11 +252,23 @@ http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72141.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376261.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",Star Plush
+#EXTINF:-1 group-title="India" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",Star Plus
 http://cool365.xyz:900/live/4160189881/DB4ACD54/378741.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR UTSAV
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72144.ts
 
+#EXTINF:-1 group-title="India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR Bharat 
+http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/1019858.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOL73lTrWHZtUseNjIdLxYIKXlqUBRPQd2g&s",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOL73lTrWHZtUseNjIdLxYIKXlqUBRPQd2g&s",Goldmines Movie 
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRZWvdBoOSzHBNDEu5TLWRBjLafe8COh2VdK275v0VA&s",The Movie Club
+http://212.102.34.8:9080/Pitaara/index.m3u8
 
 
 
