@@ -3,3 +3,9 @@
 
 #EXTINF:-1 group-title="SHAHARUM" tvg-logo="https://postimg.cc/v49cFvYK", Join Telegram 
 https://postimg.cc/v49cFvYK
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-dFjXlCEQ65CkFvaVtqV_EifsWEuJcGBHc9Tbe9REg&s=10", Islamic
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-dFjXlCEQ65CkFvaVtqV_EifsWEuJcGBHc9Tbe9REg&s=10", Makka TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
