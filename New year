@@ -120,3 +120,34 @@ http://103.175.73.12:8080/live/1/1_0.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", Stare Golod
 http://103.175.73.12:8080/live/30/30_0.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", PTV sports
+http://filex.tv:8080/live/Umair9272/Umair6912/453434.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Ary Sports
+http://filex.tv:8080/live/Umair9272/Umair6912/190767.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Ten Cricket 
+http://filex.tv:8080/live/Umair9272/Umair6912/658436.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Star Sports 1
+http://filex.tv:8080/live/Umair9272/Umair6912/52094.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Star Sports 2
+http://filex.tv:8080/live/Umair9272/Umair6912/52100.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Sony Ten 1
+http://filex.tv:8080/live/Umair9272/Umair6912/52083.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Sony Ten 2
+http://filex.tv:8080/live/Umair9272/Umair6912/52085.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Willow Cricket 
+http://filex.tv:8080/live/Umair9272/Umair6912/52109.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", Sky Cricket 
+http://filex.tv:8080/live/Umair9272/Umair6912/250199.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", TNT Sports 1
+http://filex.tv:8080/live/Umair9272/Umair6912/529243.m3u8
