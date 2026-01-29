@@ -151,3 +151,23 @@ http://filex.tv:8080/live/Umair9272/Umair6912/250199.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AcOQoTPC0vsJ_PyHLe8_zJDdL5A06_zWJA&s", TNT Sports 1
 http://filex.tv:8080/live/Umair9272/Umair6912/529243.m3u8
+
+
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Duronto 
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Rongeen Tv
+https://cdn-4.pishow.tv/live/1029/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Gupal bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Doremon 
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
