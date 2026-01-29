@@ -69,3 +69,12 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/05/max-bangla.jpg", Max Bangla 
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/maxbangla.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2IDI6MTI6MTMgUE0maGFzaF92YWx1ZT01dlJzQTFqbUtMSHBzRzJaR1pMa3BRPT0mdmFsaWRtaW51|referer=https://www.jagobd.com
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpN5qktc_HtDbFFHYV8zvoVBsDK5Z1mo-GjQ&s", Star Jalsha
+http://103.175.73.12:8080/live/194/194_0.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpN5qktc_HtDbFFHYV8zvoVBsDK5Z1mo-GjQ&s", Jalsha Movie
+http://103.175.73.12:8080/live/374/374_0.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4XK9-Zr7p06YSrZpWrv89oKO7idqX3twyZMjPxfAKQ&s=10", Discovery 
+https://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhd/mono.ts.m3u8
