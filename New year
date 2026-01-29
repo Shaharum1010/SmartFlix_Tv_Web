@@ -80,10 +80,10 @@ http://103.175.73.12:8080/live/374/374_0.m3u8
 https://jmrj02jibon02khan.vercel.app/tracks-v1a1/discoveryhd/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", Colors Bangla 
-http://filex.tv:8080/live/Umair9272/Umair6912/955389.ts
+http://filex.tv:8080/live/Umair9272/Umair6912/955389.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", Zee Bangla 
-http://filex.tv:8080/live/Umair9272/Umair6912/955392.ts
+http://filex.tv:8080/live/Umair9272/Umair6912/955392.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s", Depto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -93,3 +93,30 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJLKt7BWRIjFtCTU9BebFOvk0G0tSXb09pA&s", kushbo Tv
 https://cdn-4.pishow.tv/live/1473/master.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW7kwTHRCqvL9M5rwdL5JHaO7YsZq2KfJGmDO_cPE7g&s", Sony Max
+http://103.175.73.12:8080/live/33/33_0.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW7kwTHRCqvL9M5rwdL5JHaO7YsZq2KfJGmDO_cPE7g&s", Sony Sab
+http://103.175.73.12:8080/live/6/6_0.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW7kwTHRCqvL9M5rwdL5JHaO7YsZq2KfJGmDO_cPE7g&s", Sony Pal
+http://103.175.73.12:8080/live/11/11_0.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW7kwTHRCqvL9M5rwdL5JHaO7YsZq2KfJGmDO_cPE7g&s", Sony Yny
+http://103.175.73.12:8080/live/122/122_0.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW7kwTHRCqvL9M5rwdL5JHaO7YsZq2KfJGmDO_cPE7g&s", Sony Aath
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", Colors Hd
+http://217.20.112.199:8888/ColorsHD/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", Rishtey
+http://103.175.73.12:8080/live/12/12_0.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", State Plus Hd
+http://103.175.73.12:8080/live/1/1_0.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", Stare Golod
+http://103.175.73.12:8080/live/30/30_0.m3u8
