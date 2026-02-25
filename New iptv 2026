@@ -11,16 +11,16 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x71442", Ananda Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6NDY6MTYgQU0maGFzaF92YWx1ZT1yN0ovNGt5N0xZNFRyWWd0RWtiZ2VnPT0mdmFsaWRtaW51dGVzPTQw|referer=https://www.jagobd.com
+https://sonamul3535.vercel.app/Ananda-Tv.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x71442", Asian Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2IDE6NDY6NTAgUE0maGFzaF92YWx1ZT1aY2pJQXMwdVZwMlBNQ0dFdVEwRmJ3PT0mdmFsaWRtaW51|referer=https://www.jagobd.com
+https://sonamul3535.vercel.app/Asian-Tv.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x71442", ATN Bangla 
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2IDE6NDk6MzkgUE0maGFzaF92YWx1ZT1TMmN4VHFkSXFXKytJeGMvNEk5UzJBPT0mdmFsaWRtaW51|referer=https://www.jagobd.com
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/07/ayna.jpg", Ayna Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2IDE6NTE6MjIgUE0maGFzaF92YWx1ZT04eTBQbmg1UTgxaDd4RDV5V0NBYUJBPT0mdmFsaWRtaW51|referer=https://www.jagobd.com
+https://sonamul3535.vercel.app/Global-Tv.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg", Azan Tv
 http://203.18.159.115/ATNBANGLA/tracks-v1a1/mono.m3u8
@@ -157,7 +157,7 @@ http://xott.live:8080/live/arslan3434/recevier342/167579.ts
 
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Gubbare
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+http://103.175.73.12:8080/live/465/465_0.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Duronto 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -173,3 +173,16 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png", Doremon 
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+
+#EXTINF:-1 group-title="English" tvg-logo="https://png.pngtree.com/thumb_back/fh260/background/20250303/pngtree-discover-the-sound-of-english-visualizing-spoken-power-language-image_17011496.jpg", STAR Movie 
+http://103.175.73.12:8080/live/56/56_0.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://png.pngtree.com/thumb_back/fh260/background/20250303/pngtree-discover-the-sound-of-english-visualizing-spoken-power-language-image_17011496.jpg", Geo Net
+http://103.175.73.12:8080/live/324/324_0.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://png.pngtree.com/thumb_back/fh260/background/20250303/pngtree-discover-the-sound-of-english-visualizing-spoken-power-language-image_17011496.jpg", Aljazeera
+http://203.18.159.115/ALJAZEETAHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://png.pngtree.com/thumb_back/fh260/background/20250303/pngtree-discover-the-sound-of-english-visualizing-spoken-power-language-image_17011496.jpg", Sony Pix
+http://203.18.159.115/SONYPIXHD/tracks-v1a1/mono.m3u8
