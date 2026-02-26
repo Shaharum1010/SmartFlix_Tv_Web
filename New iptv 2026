@@ -11,16 +11,16 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x71442", Ananda Tv
-https://sonamul3535.vercel.app/Ananda-Tv.m3u8
+http://starshare.net:80/live/CVCVCVCV/CV1CV1CV1/399.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x71442", Asian Tv
-https://sonamul3535.vercel.app/Asian-Tv.m3u8
+http://starshare.net:80/live/CVCVCVCV/CV1CV1CV1/430.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x71442", ATN Bangla 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/07/ayna.jpg", Ayna Tv
-https://sonamul3535.vercel.app/Global-Tv.m3u8
+http://starshare.net:80/live/CVCVCVCV/CV1CV1CV1/1036.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg", Azan Tv
 http://203.18.159.115/ATNBANGLA/tracks-v1a1/mono.m3u8
@@ -35,7 +35,7 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2IDE6NTY6MjggUE0maGFzaF92YWx1ZT1XSkNpTDdUWGE2RjlBSUlyTnNjekhRPT0mdmFsaWRtaW51|referer=https://www.jagobd.com
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x71442", BTV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDI2IDE6NTc6NTMgUE0maGFzaF92YWx1ZT1VMWhaTzlFdVoyOWJmcjY1OVBPZTBBPT0mdmFsaWRtaW51|referer=https://www.jagobd.com
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x71442", Channel 24
 http://203.18.159.115/CHANNEL24/tracks-v1a1/mono.m3u8
@@ -98,7 +98,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 http://103.175.73.12:8080/live/33/33_0.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW7kwTHRCqvL9M5rwdL5JHaO7YsZq2KfJGmDO_cPE7g&s", Sony Sab
-http://103.175.73.12:8080/live/6/6_0.m3u8
+http://starshare.net:80/live/CVCVCVCV/CV1CV1CV1/98853.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW7kwTHRCqvL9M5rwdL5JHaO7YsZq2KfJGmDO_cPE7g&s", Sony Pal
 http://103.175.73.12:8080/live/11/11_0.m3u8
